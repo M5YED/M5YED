@@ -1,7 +1,3 @@
-Based on the information you provided, here's a draft README for **AssetFlow Automations**:
-
----
-
 # AssetFlow Automations
 
 AssetFlow Automations creates tailored document-automation systems to help businesses, especially asset management and investment management companies, streamline their documentation and administrative processes. Our systems are designed to save time and increase efficiency, allowing businesses to focus on growth and profitability.
